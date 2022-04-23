@@ -1,1 +1,2 @@
-# Um contadorpersonalizado usando HTML, CSS e JavaScript
+# Contador
+Um contador personalizado usando HTML, CSS e JavaScript
