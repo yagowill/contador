@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    align-items: center;
+    gap: 10px;
+}
+
+#num{
+    font-size: 42px;
+}
+
+button{
+    background-color: #c36666;
+    border-style: none;
+    font-size: 42px;
+    width: 100px;
+    height: 100px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.401);
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+#aumentar{
+    background-color: #8aa8eb;
+}
+
+#aumentar:hover{
+    background-color: #b0c4f0;
+
+}
+
+#diminuir:hover{
+    background-color: #ce8d8d;
+}
+
+#aumentar:active, #diminuir:active{
+    background-color: rgb(208, 255, 205);
+    
+}
